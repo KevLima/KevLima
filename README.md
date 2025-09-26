@@ -3,7 +3,6 @@
   <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=KevLima&show_icons=true&theme=dark">
   <img alt="my top langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevLima&show_icons=true&theme=dark">
 </div>
-
 ## Tecnologias
 <div>
   <img align="center" alt="Kev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
