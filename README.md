@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Kevem! 👋
 <div style="display: flex">
   <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=KevLima&show_icons=true&theme=dark">
-  <img alt="my top langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevLima&show_icons=true&theme=dark">
+  <img alt="my top langs" width="45%" height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevLima&show_icons=true&theme=dark">
 </div>
 
 ## Tecnologias
